@@ -1,4 +1,4 @@
-# Project 10: Text Manipulator
+# Project 6: Text Manipulator
 
 A simple text manipulation tool that demonstrates JavaScript functions and DOM manipulation.
 
